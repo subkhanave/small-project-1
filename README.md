@@ -7,6 +7,8 @@ Deploy 3 web applications:
 2. Wordpress
 3. Pesbuk https://github.com/sdcilsy/sosial-media
 
-Topology:
+Automation bash script to deploy above web apps
 
-<img width="599" alt="image" src="https://user-images.githubusercontent.com/37614241/175796466-03d30330-492e-47a8-82a7-b628ac3192c0.png">
+Topology:
+<img width="589" alt="image" src="https://user-images.githubusercontent.com/37614241/175919003-613db3ea-9f27-452f-b87f-543aea8b012f.png">
+
